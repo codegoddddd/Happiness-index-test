@@ -1,2 +1,2 @@
 # happiness_test
-A project for the SIH
+A project for the Sunhacks Hackathon
